@@ -48,6 +48,6 @@ func main() {
 		totalProfit += calculateProfit(tempProfit)
 	}
 
-	fmt.Println(totalProfit)
+	fmt.Println("Total Profit: ", totalProfit)
 
 }
